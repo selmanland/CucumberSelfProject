@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.project.runners.CukesRunner
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 34.391 s <<< FAILURE! - in com.project.runners.CukesRunner
+Verify Create Calender Event(Contacs page)  Time elapsed: 13.787 s  <<< FAILURE!
+java.lang.AssertionError
+
